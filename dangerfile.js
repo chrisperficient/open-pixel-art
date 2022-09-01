@@ -1,3 +1,4 @@
+//
 const { message, fail, markdown, danger } = require('danger');
 const { stripIndent, stripIndents } = require('common-tags');
 
