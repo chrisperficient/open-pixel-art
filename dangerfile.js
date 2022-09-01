@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 //
+=======
+>>>>>>> 700ac37453197de27d31dfa8791bb36ced47d777
 const { message, fail, markdown, danger } = require('danger');
 const { stripIndent, stripIndents } = require('common-tags');
 

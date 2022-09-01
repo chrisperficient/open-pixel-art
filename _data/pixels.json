@@ -1,6 +1,9 @@
 {
   "data": [
+<<<<<<< HEAD
     { "y": 1, "x": 2, "color": "#FFFF00", "username": "chrisperficient" },
+=======
+>>>>>>> 700ac37453197de27d31dfa8791bb36ced47d777
     {"y": 0, "x": 0, "color": "#ff9900", "username": "scottmwalton"},
     {"y": 0, "x": 1, "color": "#0d6d6e", "username": "ViniciusPolachini"},
     {"y": 0, "x": 2, "color": "#50325B", "username": "jesuslerma"},
